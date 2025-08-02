@@ -71,7 +71,7 @@
         "collection": "new-arrivals",
         "products_to_show": 4,
         "title": "New Arrivals",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -247,8 +247,8 @@
     "slideshow_98JbAQ",
     "featured_collection",
     "image_with_text_UtKYWi",
+    "featured_collection_PbTMYm",
     "featured_blog_yCAW8E",
-    "multicolumn_Ca879H",
-    "featured_collection_PbTMYm"
+    "multicolumn_Ca879H"
   ]
 }
