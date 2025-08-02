@@ -39,10 +39,10 @@
             "subheading": "SUPPORT YOUR TEAM & WEAR YOUR COLOURS",
             "button_label": "Shop Now",
             "link": "shopify://collections",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "show_text_box": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
+            "box_align": "middle-left",
+            "text_alignment": "left",
             "text_alignment_mobile": "center",
             "color_scheme": "scheme-1"
           }
