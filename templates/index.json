@@ -33,6 +33,7 @@
         "slide_nn9iCJ": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/home-banner-apex-pro-3.jpg",
             "image_overlay_opacity": 0,
             "heading": "PNG HUNTERS OFFICIALMERCH OUT NOW",
             "heading_size": "h1",
@@ -44,7 +45,7 @@
             "box_align": "middle-left",
             "text_alignment": "left",
             "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "color_scheme": "scheme-3"
           }
         }
       },
