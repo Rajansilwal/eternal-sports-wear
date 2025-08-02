@@ -27,18 +27,18 @@
             "menu": "footer"
           }
         },
-        "text_FKzMtQ": {
-          "type": "text",
+        "link_list_CYQ9LP": {
+          "type": "link_list",
           "settings": {
-            "heading": "Heading",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+            "heading": "Collections",
+            "menu": "collections"
           }
         }
       },
       "block_order": [
         "brand_information_VKX7Cf",
         "link_list_Dq7dtd",
-        "text_FKzMtQ"
+        "link_list_CYQ9LP"
       ],
       "settings": {
         "color_scheme": "scheme-1",
